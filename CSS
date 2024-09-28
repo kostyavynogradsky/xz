@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+main p {
+    color: black;
+    text-align: center;
+     font-family: sans-serif;
+}
+main img{
+    text-align: center;
+    height: 400px;
+    width: 600px;
+}
+nav a {
+     background-color: black;
+    color: white;
+    padding: 15px 50px;
+    border-radius:15px ;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+.d{
+   text-decoration: none;
+    padding-right: 60px; 
+    color: white; 
+}
+footer{
+    
+    text-align: center;
+    color: black;
+    font-family: sans-serif
+}
+.g{
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white; 
+}
+table img{
+    width: 30px;
+    height: 30px;
+}
